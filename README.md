@@ -18,7 +18,7 @@ It explains the intersection of **Quantum Physics (Tensor Networks)** and **AI (
 
 ## **📂 The Modules**
 
-### **1. The Theory (CONCEPTS_AND_THEORY.md)**
+### **1. The Theory ([`CONCEPTS_AND_THEORY.md`](./docs/CONCEPTS_AND_THEORY.md))**
 
 **Start Here.** A layman's guide to the physics and math behind the code.
 
@@ -26,7 +26,7 @@ It explains the intersection of **Quantum Physics (Tensor Networks)** and **AI (
 * What is a "Bond Dimension"?
 * How SVD acts as a scalpel.
 
-### **2. The Scalpel: Surgical Bias Removal (01_The_Scalpel_SVD.ipynb)**
+### **2. The Scalpel: Surgical Bias Removal ([`01_The_Scalpel_SVD.ipynb`](./notebooks/01_The_Scalpel_SVD.ipynb))**
 
 This notebook demonstrates the "De-censorship" aspect.
 
@@ -34,7 +34,7 @@ This notebook demonstrates the "De-censorship" aspect.
 * **Method:** We use **Singular Value Decomposition (SVD)** to isolate the specific mathematical direction that corresponds to a "censorship" trigger.  
 * **Action:** We mathematically "ablate" (remove) that direction from a **GPT-2** model without retraining it, effectively removing a specific behavior.
 
-### **3. The Shrink Ray: Tensor Networks & MPOs (02_The_Shrink_Ray_MPO.ipynb)**
+### **3. The Shrink Ray: Tensor Networks & MPOs ([`02_The_Shrink_Ray_MPO.ipynb`](./notebooks/02_The_Shrink_Ray_MPO.ipynb))**
 
 This notebook explains the "Quantum" aspect used for compression.
 
@@ -42,7 +42,7 @@ This notebook explains the "Quantum" aspect used for compression.
 * **Method:** We demonstrate how to reshape a neural network layer into a "Tensor Train" and compress it using the "Bond Dimension" ($\chi$).
 * **Code:** Uses tensor_lib.py to simulate MPO layers.
 
-### **4. Bibliography (BIBLIOGRAPHY.md)**
+### **4. Bibliography ([`BIBLIOGRAPHY.md`](./docs/BIBLIOGRAPHY.md))**
 
 A curated list of the academic lineage (2014–2025), tracing the evolution from "CompactifAI" to "DeepSeek R1 Slim".
 
