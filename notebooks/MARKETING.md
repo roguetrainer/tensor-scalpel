@@ -4,29 +4,29 @@
 
 **Headline:** Did Quantum Physicists just "lobotomize" a massive AI model? ⚛️🧠
 
-You might have seen the headlines: Researchers at Multiverse Computing claim to have shrunk the massive **DeepSeek R1** model by 50% AND surgically removed its censorship filters using "Quantum-Inspired" math.
+You might have seen the headlines: Researchers at MULTIVERSE COMPUTING have shrunk the massive DEEPSEEK R1 model by 50% AND surgically removed its censorship filters using "QUANTUM-INSPIRED" math. 👏
 
-It sounds like sci-fi, but it’s actually just elegant linear algebra.
+It sounds like sci-fi, but it’s actually "just" ELEGANT LINEAR ALGEBRA.
 
-I built a repo to demonstrate exactly how this works mathematically.  
-👉 tensor-scalpel:  https://github.com/roguetrainer/tensor-scalpel/
+Peek at the repo to get an albeit much simplified flavour of how this works mathematically.  
+👉 TENSOR-SCALPEL:  https://github.com/roguetrainer/tensor-scalpel/
 
-### **The Breakdown:**
+### **THE BREAKDOWN:**
 
 Traditional AI treats a neural network as a giant grid of isolated numbers (Matrices). It's effective, but bloated.
 
-Physicists view complex systems as webs of **correlations** (Tensor Networks).
+Physicists view complex systems as webs of **CORRELATIONS** (Tensor Networks).
 
-By reshaping the AI's "brain" into a **Matrix Product Operator (MPO)**—a structure originally designed to model quantum particles—we can do two incredible things:
+By reshaping the AI's "brain" into a **MATRIX PRODUCT OPERATOR (MPO)**—a structure originally designed to model quantum particles—we can do two incredible things:
 
-1. **The Shrink Ray:** Compress the model by 50-70% by keeping only the "high-entanglement" connections and discarding the noise (Bond Dimension Truncation).  
-2. **The Scalpel:** Identify specific behaviors (like censorship) as distinct mathematical vectors and "ablate" them using Singular Value Decomposition (SVD).
+1. **THE SHRINK RAY:** Compress the model by 50-70% by keeping only the "high-entanglement" connections and discarding the noise (Bond Dimension Truncation).  
+2. **THE SCALPEL:** Identify specific behaviors (like censorship) as distinct mathematical vectors and "ablate" them using Singular Value Decomposition (SVD).
 
 ### **In this repo:**
 
-* **Notebook 1:** See a "Censorship Virus" injected into GPT-2 and then surgically removed using SVD.  
-* **Notebook 2:** Watch a Neural Network layer get crushed by 50% using MPO reshaping.  
-* **Theory Guide:** A layman's guide to why brains behave like quantum states.
+* **NOTEBOOK 1:** See a "Censorship Virus" injected into GPT-2 and then surgically removed using SVD.  
+* **NOTEBOOK 2:** Watch a Neural Network layer get crushed by 50% using MPO reshaping.  
+* **THEORY GUIDe:** A layman's guide to why brains behave like quantum states.
 
 Peek at the code to see the math behind the magic. 
 

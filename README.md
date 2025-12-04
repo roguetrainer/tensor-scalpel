@@ -4,7 +4,7 @@ De-censor & compress LLMs using Quantum Physics.
 An educational demo of the tensor network math behind [**Multiverse Computing**](https://multiversecomputing.com/)'s [**DeepSeek R1 Slim**](https://multiversecomputing.com/resources/deepseek-r1-uncensored-full-power-fraction-of-the-size).
 
 ---
-![Scalpel](./img/Tensor-Network-Scalpel.png)
+![Scalpel](./img/Deep-Seek-Nano.png)
 ---
 
 ## **🧠 Overview**
